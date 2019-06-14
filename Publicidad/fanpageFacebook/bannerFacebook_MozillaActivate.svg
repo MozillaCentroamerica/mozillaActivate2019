@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -319,12 +319,12 @@
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:zoom="0.94265518"
-     inkscape:cx="407.35999"
+     inkscape:cx="201.02791"
      inkscape:cy="157.44"
      inkscape:window-x="34"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer4" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
@@ -433,7 +433,7 @@
              id="tspan2072"
              x="12.022431"
              y="207.50052"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight';fill:#ffffff;stroke-width:0.99565178">#MozActivate18</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight';fill:#ffffff;stroke-width:0.99565178">#MozActivate19</tspan></text>
       </g>
       <g
          transform="matrix(2.0566927,0,0,2.0561259,508.14113,-304.18879)"
